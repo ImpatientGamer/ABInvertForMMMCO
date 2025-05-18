@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "tomtee", "pizza1398", "GhostlyDark", "Nerrel", "VeryImpatientGamer"
+    ],
+    "description" : "Modern Controller Overhaul texture extension, designed for the Steam Deck with the Attack button as the right button and the Action button as the down button.\n\nEnsure you place ABOVE Modern Controller Overhaul.\n\nYou should keep Texture Replacement enabled in Modern Controller Overhaul.",
+    "display_name" : "MCO - Steam Deck (A/B Inverted)",
+    "game_id" : "mm",
+    "id" : "MCO_Deck_Invert_AB",
+    "minimum_recomp_version" : "1.2.0",
+    "short_description" : "Steam Deck Controller Textures (A/B Inverted)",
+    "version" : "1.0.0"
+}
