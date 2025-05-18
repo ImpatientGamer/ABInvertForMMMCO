@@ -1,7 +1,7 @@
 {
-    "name": "AB Invert for Modern Controller Overhaul",
+    "name": "AB_Invert_for_Modern_Controller_Overhaul",
     "description": "Alternate textures for Modern Controller Overhaul when using Xbox or Steam Deck controls with action down and attack right.",
-    "version": "1.0.0",
+    "version_number": "1.0.0",
     "dependencies": [
         "tomtee-Modern_Controller_Overhaul-3.0.0"
     ],
